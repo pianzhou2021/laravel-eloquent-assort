@@ -19,7 +19,7 @@
   "suggest": {
   },
   "autoload": {
-    "psr-4": {"Pianzhou\\sliceable\\": "src/"}
+    "psr-4": {"Pianzhou\\Sliceable\\": "src/"}
   },
   "autoload-dev": {
   },
